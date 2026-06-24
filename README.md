@@ -3,7 +3,7 @@
 
 My name is *JACE ALLEN D. RAYOS*, You may call me simply as **Jace**
 
-- 16yrs old, My Birthday is December 24,2009
+- 16 years old (Born in December 24,2009)
 - I like to play games
 
 # **SKILLS**
@@ -19,7 +19,7 @@ My name is *JACE ALLEN D. RAYOS*, You may call me simply as **Jace**
 
 *Senior Highschool:* **JOSE ABAD SANTOS MEMORIAL Highschool** (G11-G12)
 
-*College:* **FEU DILIMAN** (Until Graduation)
+*College:* **FEU DILIMAN**
 
 # PROJECTS
 - Grade Calculator
