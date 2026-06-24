@@ -1,4 +1,3 @@
-# Rayos_WebDevelopment
 
 # **ABOUT ME**
 
@@ -21,6 +20,11 @@ My name is *JACE ALLEN D. RAYOS*, You may call me simply as **Jace**
 *Senior Highschool:* **JOSE ABAD SANTOS MEMORIAL Highschool** (G11-G12)
 
 *College:* **FEU DILIMAN** (Until Graduation)
+
+# PROJECTS
+- Grade Calculator
+- 2D Game (Wickeditor)
+- Simple Minecraft Advertisement
 
 # **WORK EXPERIENCE**
 **Workplace:** Valve Corp
