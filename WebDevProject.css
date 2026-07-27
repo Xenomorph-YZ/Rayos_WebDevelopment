@@ -1,0 +1,29 @@
+
+header {
+
+  background-color: #004aad;
+
+  color: white;
+
+  text-align: center;
+
+  padding: 20px;
+
+}
+footer {
+
+  background-color: #004aad;
+
+  color: white;
+
+  text-align: center;
+
+  padding: 10px;
+
+  position: fixed;
+
+  bottom: 0;
+
+  width: 100%;
+
+}
