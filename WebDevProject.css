@@ -1,20 +1,40 @@
 
 header {
 
-  background-color: #004aad;
+  background-color: #404;
 
-  color: white;
+  color: whitesmoke;
 
   text-align: center;
 
   padding: 20px;
+}
+header h1 {
+
+  margin: 0;
+
+  font-size: 2.5em;
+
+  color: ;
+}
+body {
+
+   font-family: Arial, sans-serif;
+
+   margin: 0;
+
+   padding: 0;
+
+   background-color: #1A202C;
+
+   color: whitesmoke;
 
 }
 footer {
 
-  background-color: #004aad;
+  background-color: #404;
 
-  color: white;
+  color: whitesmoke ;
 
   text-align: center;
 
