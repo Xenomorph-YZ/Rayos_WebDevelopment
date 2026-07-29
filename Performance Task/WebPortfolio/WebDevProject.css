@@ -1,0 +1,172 @@
+
+header {
+
+  background-color: #404;
+
+  color: whitesmoke;
+
+  text-align: center;
+
+  padding: 20px;
+}
+header h1 {
+
+  margin: 0;
+
+  font-size: 2.5em;
+
+  color: ;
+}
+body {
+
+   font-family: Arial,;
+
+   margin: 0;
+
+   padding: 0;
+
+   background-color: #1A202C;
+
+   color: whitesmoke;
+
+}
+body {
+    background-color: #1A202C;
+    font-family: Arial,;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+}
+
+/* Main Header */
+.centerMain {
+    background-color: #1A202C;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 60px;
+    padding: 60px 20px 20px;
+    margin: 0;
+}
+
+/* Intro */
+body > p:nth-of-type(1),
+body > p:nth-of-type(2) {
+    text-align: center;
+    background-color: #1A202C;
+    color: white;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+/* Navigation Section */
+.navigationBar {
+    background-color: #1A202C;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 30px;
+}
+
+.navigationBar a {
+    text-decoration: none;
+    color: #1A202C;
+    font-weight: bold;
+}
+
+.navigationBar a:hover {
+    color: #1A202C;
+}
+
+/* Headings */
+h2,
+h3,
+#educationalBackground,
+#contactInformation {
+    text-align: center;
+    color: #1A202C;
+}
+
+/* Paragraphs */
+p {
+    text-align: center;
+}
+
+/* Images */
+img {
+    width: 20px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 15px;
+    border: 40px solid #1A202C;
+}
+
+/* Table */
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th {
+    background-color: #1A202C;
+    color: rgb(255, 255, 255);
+}
+
+td,
+th {
+    padding: 13px;
+}
+
+/* Form */
+form {
+    width: 70%;
+    margin: 30px auto;
+    background-color: #fffafa;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+/* Inputs */
+input[type="text"],
+input[type="password"],
+textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #1A202C;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+/* Buttons */
+input[type="submit"],
+input[type="reset"] {
+    background-color: #1A202C;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover,
+input[type="reset"]:hover {
+    background-color: #404;
+}
+footer {
+
+  background-color: #404;
+
+  color: whitesmoke ;
+
+  text-align: center;
+
+  padding: 10px;
+
+  position: fixed;
+
+  bottom: 0;
+
+  width: 100%;
+
+}
