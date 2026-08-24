@@ -1,35 +1,31 @@
 function changeColor(){
-    document.getElementById("grayscaleImg").src="boat.png";
+    document.getElementById("grayscale").src="Activity 7 Colors/Cloud.png";
 }
 
 function changeColor2(){
-    document.getElementById("grayscaleImg").src="boxes.png";
+    document.getElementById("grayscale").src="Activity 7 Colors/Grass.png";
 }
 
 function changeColor3(){
-    document.getElementById("grayscaleImg").src="fire.png";
+    document.getElementById("grayscale").src="Activity 7 Colors/JS ART.png";
 }
 
 function changeColor4(){
-    document.getElementById("grayscaleImg").src="galaxy.png";
+    document.getElementById("grayscale").src="Activity 7 Colors/Light bg.png";
 }
 
 function changeColor5(){
-    document.getElementById("grayscaleImg").src="night_sky.png";
+    document.getElementById("grayscale").src="Activity 7 Colors/Moon.png";
 }
 
 function changeColor6(){
-    document.getElementById("grayscaleImg").src="sea.png";
+    document.getElementById("grayscale").src="Activity 7 Colors/Rain.png";
 }
 
 function changeColor7(){
-    document.getElementById("grayscaleImg").src="sailor.png";
+    document.getElementById("grayscale").src="Activity 7 Colors/Sunshine.png";
 }
 
 function changeColor8(){
-    document.getElementById("grayscaleImg").src="colored.png";
-}
-
-function changeColor9(){
-    document.getElementById("grayscaleImg").src="grayscale.png";
+    document.getElementById("grayscale").src="Activity 7 Colors/Grayscale.png";
 }
