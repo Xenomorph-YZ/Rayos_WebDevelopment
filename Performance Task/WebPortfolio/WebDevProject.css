@@ -98,6 +98,7 @@ img {
     margin: 20px auto;
     border-radius: 15px;
     border: 40px solid #1A202C;
+    align-items: center;
 }
 
 /* Table */
