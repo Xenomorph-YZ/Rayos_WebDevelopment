@@ -93,9 +93,10 @@ p {
 
 /* Images */
 img {
-    width: 20px;
+    width: 150x;
+    height: 150px;
     display: block;
-    margin: 20px auto;
+    margin: 15px auto;
     border-radius: 15px;
     border: 40px solid #1A202C;
     align-items: center;
