@@ -65,28 +65,6 @@ button:active {
     transform: scale(0.97);
 }
 
-button {
-    font-family: inherit;
-    font-weight: 600;
-    font-size: 0.875rem;
-    color: #ffffff;
-    background-color: #0cabb1;
-    border: none;
-    border-radius: 6px;
-    padding: 10px 16px;
-    margin: 4px;
-    cursor: pointer;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-    
-    /* Smooth transition for the hover effects */
-    transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
-}
-button:hover {
-    background-color: #551dd8;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(37, 99, 235, 0.2);
-}
-
 button:active {
     transform: translateY(0);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
