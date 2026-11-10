@@ -1,0 +1,88 @@
+/* Center the form container on the page */
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f4; /* Optional background color */
+}
+
+.form-wrapper {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px; /* Limits the width so it doesn't span the full screen */
+}
+
+/* Make all form elements block-level and stack neatly */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Adds consistent spacing between fields */
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; /* Ensures padding doesn't affect total width */
+    font-family: inherit;
+}
+
+textarea {
+    resize: vertical;
+    min-height: 80px;
+}
+
+/* Align buttons side-by-side */
+.btn-box {
+    display: flex;
+    gap: 10px;
+}
+
+.btn {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid #007bff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button.btn {
+    background-color: #007bff;
+    color: white;
+}
+
+a.btn {
+    background-color: transparent;
+    color: #007bff;
+}
+
+form {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Creates 2 equal columns */
+    gap: 15px;
+}
+
+/* Make headers, textareas, and button wrappers span across both columns */
+h1, textarea, .btn-box {
+    grid-column: span 2;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.btn-box {
+    display: flex;
+    gap: 10px;
+}
